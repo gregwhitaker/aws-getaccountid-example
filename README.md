@@ -1,5 +1,5 @@
 # aws-getaccountid-example
-An example of how to get the AWS account id of the current account in an application.
+An example of how to get the AWS account id of the current account at application runtime.
 
 ## Running the Example
 Follow the steps below to run the example:
