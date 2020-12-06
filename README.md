@@ -1,4 +1,6 @@
 # aws-getaccountid-example
+![Build](https://github.com/gregwhitaker/aws-getaccountid-example/workflows/Build/badge.svg)
+
 An example of how to get the AWS account id of the current account at application runtime.
 
 ## Running the Example
